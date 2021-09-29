@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 About to start a new thing
+- 🔭 Working on https://portainer.io
 - 📫 How to reach me: use the internet
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I like to code
+- ⚡ Fun fact: I like to make tools that delight users.
 
